@@ -1,3 +1,5 @@
+# Compile a program without stack protections
+
 import os
 
 ext = input("C/CPP: ")
